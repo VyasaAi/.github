@@ -15,8 +15,7 @@ Welcome to **VyasaAi** — an open-source initiative by students and developers 
 
 ---
 
-## 🛠️ Getting Started (Copy & Paste Mode)
-
+## 🛠️ Getting Started 
 1. **Fork & Clone**
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
