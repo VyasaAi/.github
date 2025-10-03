@@ -60,8 +60,8 @@ git push origin feature/<your-feature-name>
 
 ## 📫 Connect with Us
 
-* Email: **[kamalagrahari2003@gmail.com](mailto:kamalagrahari2003@gmail.com)**
-* GitHub Discussions (coming soon)
+* Email: **[ikamalagrahari@gmail.com](mailto:ikamalagrahari@gmail.com)**
+* GitHub [Discussions](https://github.com/orgs/VyasaAi/discussions)
 
 ---
 
